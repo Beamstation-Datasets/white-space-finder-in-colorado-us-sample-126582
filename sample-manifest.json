@@ -1,0 +1,12 @@
+{
+  "export_job_id": "a2af8c1f-ee33-4307-9b0b-94f08d6543d0",
+  "id_short": 126582,
+  "published_at": "2026-04-10T19:09:45Z",
+  "repo_name": "white-space-finder-in-colorado-us-sample-126582",
+  "sample_asset_name": "beamstation_126582_food_and_drink-us-co_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/126582/beamstation_126582_food_and_drink-us-co_SAMPLE_DIST.csv",
+  "sample_records": 3,
+  "sample_sha256": "74c67269e5db1a35f4b3d5b0b4269c56ba4fafdc9b6aef9341b66685cab6e608",
+  "sample_size_bytes": 28096,
+  "total_records": 34
+}
