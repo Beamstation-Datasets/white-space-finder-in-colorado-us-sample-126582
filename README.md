@@ -9,9 +9,9 @@
 | Dataset ID | `126582` |
 | Location | Colorado |
 | Category | Restaurants |
-| Full dataset size | 34 records |
-| Free sample size | 3 records (8.82%) |
-| Last export | 2026-04-07T16:38:49.407134+00:00 |
+| Full dataset size | 31 records |
+| Free sample size | 3 records (9.68%) |
+| Last export | 2026-04-14T22:27:33.204958+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-colorado-us-sample-126582/releases/download/sample-latest/beamstation_126582_food_and_drink-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
